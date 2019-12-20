@@ -8,13 +8,13 @@ facilitated through the react native application which works on both android and
 ## Table of Contents
 - [Introduction](#introduction)
 - [Demo](#demo)
-- [Getting Started](#Getting Started)
+- [GettingStarted](#gettingstarted)
     * [Prerequisites](#prerequisites)
     * [deploying](#deploying)
-- [Tech Stack](#techstack)
+- [TechStack](#techstack)
 - [Visualizations](#visualizations)
 - [Summary](#summary)
-- [Future Work](#future Work)
+- [FutureWork](#futurework)
 - [Acknowledgments](#acknowledgements)
 
 ## Introduction
@@ -31,7 +31,7 @@ We can see the architecture diagram of the entire system below:
 
 You can download the app by clicking this [link](https://expo.io/@sammyboi/seefood)
 
-## Getting Started
+## GettingStarted
 
 ### Prerequisites
 
@@ -74,7 +74,7 @@ we run this command inside the dashboard folder
 pip install -t lib -r requirements.txt
 ```
 
-## Tech Stack
+## TechStack
 - **App Development**
     * [expo](https://docs.expo.io/versions/latest/) (React Native)
     * [Google Vision API](https://cloud.google.com/vision/)
@@ -122,7 +122,7 @@ requests to our dashboard, where we pass the food label name, the dashboard rece
 Once we receive data from cassandra to our dashboard, we then pass these values to our visualizations through jinja which is a template engine
 We can then view all our visualizations in one place.
 
-## Future Work
+## FutureWork
 
 We are planning to add support for user profiles in order to store previous data. We can see the previously scanned images and also the insights related to that.
 That way a user can lead a better life by making healthy life choices :smiley:
