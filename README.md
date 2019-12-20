@@ -16,7 +16,6 @@ facilitated through the react native application which works on both android and
 - [Summary](#summary)
 - [Future Work](#future Work)
 - [Acknowledgments](#acknowledgements)
-- [Authors](#authors)
 
 ## Introduction
 
@@ -131,10 +130,3 @@ That way a user can lead a better life by making healthy life choices :smiley:
 ## Acknowledgements
 
 - [react-native app](https://github.com/JscramblerBlog/google-vision-rn-demo)
-
-## Authors
-
-- Sameer Pasha
-- Archana Subramanian
-- Ravi Kiran Dubey
-- Vignesh Vaidyanathan
